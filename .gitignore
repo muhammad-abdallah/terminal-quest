@@ -1,0 +1,20 @@
+# Generated build output
+target/
+*.class
+*.log
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+
+# Saved games and secret files
+save.json
+*.env
+.env
+.env.*
+*.key
+*.pem
+
+# Internal assignment notes
+SUBMISSION_NOTES.md
