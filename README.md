@@ -103,13 +103,13 @@ Update `<version>` in `pom.xml` when releasing a new version. Maven uses that ve
 On any machine with JDK 17+ and Maven 3.9+:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/terminal-quest.git
+git clone https://github.com/muhammad-abdallah/terminal-quest.git
 cd terminal-quest
 mvn clean package
 java -jar target/terminal-quest-1.0.0.jar
 ```
 
-**Before submitting:** replace `YOUR-USERNAME` with the real repository path after publishing to GitHub. The professor must be able to access the repository. Commit messages should clearly show the implementation, Maven configuration, and documentation changes. Do not commit `target/`, saves, keys, or tokens.
+
 
 ## Future TFSD 5 improvements
 
